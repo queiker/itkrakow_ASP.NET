@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITKRAKOW", "ITKRAKOW.csproj", "{49A8409D-4DEC-48E2-B9BE-1A8FCCD9328A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49A8409D-4DEC-48E2-B9BE-1A8FCCD9328A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A8409D-4DEC-48E2-B9BE-1A8FCCD9328A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A8409D-4DEC-48E2-B9BE-1A8FCCD9328A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A8409D-4DEC-48E2-B9BE-1A8FCCD9328A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {004F5012-7A56-447C-8625-59E94F8E801B}
+	EndGlobalSection
+EndGlobal
