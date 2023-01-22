@@ -1,0 +1,216 @@
+# Translation of Themes - Fashion Diva in Polish
+# This file is distributed under the same license as the Themes - Fashion Diva package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-04 10:37:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: pl\n"
+"Project-Id-Version: Themes - Fashion Diva\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Fashion Diva is a child theme of Blossom Fashion Free WordPress theme. You can create a visually appealing and stunning feminine fashion blog with this theme without writing a single line of code. You can easily share your fashion collections and lifestyle ideas attractively using this theme. It is a fully responsive and mobile-friendly theme which ensures your website displays correctly on every device and screen sizes. The theme is speed optimized to provide your visitors with a smooth browsing experience while visiting your website. Furthermore, it is ultra SEO optimized along with Schema.org markup ready to help your website rank higher in search engine results. The theme is social media ready. You can flaunt your Instagram profile on the home page. The theme also has built-in options to integrate Facebook, Snapchat, Twitter, Instagram, Pinterest, and other major social platforms. Fashion Diva comes with 20 custom widgets that help you increase the functionality of the website all by yourself without writing a single line of code. Furthermore, the theme is fully compatible with the WooCommerce plugin -- you can create your online shop with the theme. Also, the theme is cross-browser compatible, translation ready and supports RTL scripts. If you run into any problem or need guidance, Fashion Diva is backed with extensive documentation along with the quick and friendly support team. Check demo: https://blossomthemes.com/theme-demo/?theme=fashion-diva, read documentation: https://docs.blossomthemes.com/docs/fashion-diva/, and get support: https://blossomthemes.com/support-ticket/"
+msgstr "Fashion Diva to motyw potomny motywu WordPress Blossom Fashion Free. Możesz stworzyć atrakcyjny wizualnie i oszałamiający blog o kobiecej modzie z tym motywem bez pisania ani jednej linijki kodu. Za pomocą tego motywu możesz łatwo udostępniać swoje kolekcje mody i pomysły na styl życia. Jest to w pełni responsywny i przyjazny dla urządzeń mobilnych motyw, który zapewnia prawidłowe wyświetlanie Twojej witryny na każdym urządzeniu i rozmiarze ekranu. Motyw jest zoptymalizowany pod kątem szybkości, aby zapewnić odwiedzającym płynne przeglądanie podczas odwiedzania Twojej witryny. Co więcej, jest zoptymalizowany pod kątem SEO wraz ze znacznikami Schema.org, aby pomóc Twojej witrynie uzyskać wyższą pozycję w wynikach wyszukiwania. Motyw jest gotowy do obsługi mediów społecznościowych. Możesz pochwalić się swoim profilem na Instagramie na stronie głównej. Motyw ma również wbudowane opcje integracji Facebooka, Snapchata, Twittera, Instagrama, Pinteresta i innych głównych platform społecznościowych. Fashion Diva zawiera 20 niestandardowych widżetów, które pomagają samodzielnie zwiększyć funkcjonalność witryny bez pisania nawet jednej linijki kodu. Co więcej, motyw jest w pełni kompatybilny z wtyczką WooCommerce - możesz stworzyć swój sklep internetowy z motywem. Ponadto motyw jest kompatybilny z różnymi przeglądarkami, gotowy do tłumaczenia i obsługuje skrypty RTL. Jeśli napotkasz jakiś problem lub potrzebujesz wskazówek, Fashion Diva jest wspierana obszerną dokumentacją wraz z szybkim i przyjaznym zespołem wsparcia. Zobacz demo: https://blossomthemes.com/theme-demo/?theme=fashion-diva, przeczytaj dokumentację: https://docs.blossomthemes.com/docs/fashion-diva/, uzyskaj pomoc techniczną: https://blossomthemes.com/support-ticket/."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Fashion Diva"
+msgstr "Fashion Diva"
+
+#: functions.php:338
+msgid "Flush Local Fonts Cache"
+msgstr "Wyczyść lokalną pamięć podręczna kroju pisma"
+
+#: functions.php:324
+msgid "Flush Local Font Files"
+msgstr "Wyczyść lokalne pliki kroju pisma"
+
+#: functions.php:322
+msgid "Click the button to reset the local fonts cache"
+msgstr "Kliknij przycisk, aby zresetować lokalną pamięć podręczną kroju pisma"
+
+#: functions.php:314
+msgid "Preloading Google fonts will speed up your website speed."
+msgstr "Wstępne ładowanie kroju pisma Google przyspieszy szybkość twojej witryny."
+
+#: functions.php:313
+msgid "Preload Local Fonts"
+msgstr "Wczytaj lokalny krój pisma"
+
+#: functions.php:294
+msgid "Enable to load google fonts from your own server instead from google's CDN. This solves privacy concerns with Google's CDN and their sometimes less-than-transparent policies."
+msgstr "Włącz ładowanie kroju pisma Google z własnego serwera zamiast z serwerów Google. Rozwiązuje to problemy dotyczące prywatności związane z serwerami firmy Google i czasami mniej przejrzystymi zasadami."
+
+#: functions.php:293
+msgid "Load Google Fonts Locally"
+msgstr "Załaduj Google Fonts lokalnie"
+
+#: functions.php:634
+msgid "Close"
+msgstr "Zamknij"
+
+#: functions.php:608 functions.php:636
+msgid "Mobile"
+msgstr "Urządzenia mobilne"
+
+#: functions.php:536
+msgid "search toggle"
+msgstr "przełącznik wyszukiwania"
+
+#: functions.php:1146
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: functions.php:1146
+msgid " Powered by %s"
+msgstr "Napędzane przez %s"
+
+#: functions.php:1144
+msgid " Fashion Diva | Developed By "
+msgstr "Fashion Diva | Stworzony przez"
+
+#: functions.php:782
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "wł."
+
+#: functions.php:781
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "wł."
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:780
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "wł."
+
+#: functions.php:655
+msgid "Click here to add a menu"
+msgstr "Kliknij tutaj, aby dodać menu"
+
+#: functions.php:472
+msgid "Choose the layout of the home page for your site."
+msgstr "Wybierz układ strony domowej swojej witryny."
+
+#: functions.php:471
+msgid "Home Page Layout"
+msgstr "Układ strony domowej"
+
+#: functions.php:451
+msgid "Home Page Layouts"
+msgstr "Układy strony domowej"
+
+#: functions.php:437
+msgid "Choose the layout of the slider for your site."
+msgstr "Wybierz układ pokazu slajdów dla twojej witryny."
+
+#: functions.php:436
+msgid "Slider Layout"
+msgstr "Układ pokazu slajdów"
+
+#: functions.php:415
+msgid "Slider Layouts"
+msgstr "Układy pokazu slajdów"
+
+#: functions.php:401
+msgid "This is the available layout for header"
+msgstr "To jest dostępny układ nagłówka"
+
+#: functions.php:380 functions.php:400
+msgid "Header Layout"
+msgstr "Układ nagłówka"
+
+#: functions.php:371
+msgid "Layout Settings"
+msgstr "Ustawienia układu"
+
+#: functions.php:360
+msgid "Primary color of the theme."
+msgstr "Główny kolor motywu."
+
+#: functions.php:359
+msgid "Primary Color"
+msgstr "Kolor wiodący"
+
+#: functions.php:269
+msgid "Change the font size of your site."
+msgstr "Zmień rozmiar liter witryny."
+
+#: functions.php:268
+msgid "Font Size"
+msgstr "Rozmiar kroju pisma"
+
+#: functions.php:246
+msgid "Secondary font of the site."
+msgstr "Drugorzędny krój pisma witryny."
+
+#: functions.php:245
+msgid "Secondary Font"
+msgstr "Drugorzędny krój pisma"
+
+#: functions.php:225
+msgid "Primary font of the site."
+msgstr "Główny krój czcionki witryny."
+
+#: functions.php:224
+msgid "Primary Font"
+msgstr "Główny krój pisma"
+
+#: functions.php:204
+msgid "Typography"
+msgstr "Typografia"
+
+#: functions.php:187
+msgid "Change the font size of your site title."
+msgstr "Zmień rozmiar kroju pisma w tytule witryny."
+
+#: functions.php:186
+msgid "Site Title Font Size"
+msgstr "Wielkość liter w tytule witryny"
+
+#: functions.php:164
+msgid "Site title and tagline font."
+msgstr "Krój pisma w tytule witryny i sloganu."
+
+#: functions.php:163
+msgid "Site Title Font"
+msgstr "Krój pisma tytułu witryny"
+
+#: functions.php:115
+msgid "%1$sDocumentation Link:%2$s %3$sClick here.%4$s"
+msgstr "%1$sOdnośnik do dokumentacji:%2$s %3$sKliknij tutaj.%4$s"
+
+#: functions.php:113
+msgid "%1$sDemo Link:%2$s %3$sClick here.%4$s"
+msgstr "%1$sOdnośnik do wersji demo: %2$s %3$sKliknij tutaj.%4$s"
+
+#: functions.php:98
+msgid "Demo & Documentation"
+msgstr "Demo i dokumentacja"
+
+#: functions.php:18
+msgid "Secondary"
+msgstr "Drugorzędne"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#: functions.php:1145
+#, gp-priority: low
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://blossomthemes.com/downloads/fashion-diva-free-wordpress-theme"
+msgstr "https://blossomthemes.com/downloads/fashion-diva-free-wordpress-theme"
